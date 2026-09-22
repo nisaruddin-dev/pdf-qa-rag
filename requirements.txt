@@ -1,0 +1,6 @@
+streamlit
+cerebras-cloud-sdk
+pdfplumber
+sentence-transformers
+faiss-cpu
+numpy
