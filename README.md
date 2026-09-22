@@ -130,9 +130,9 @@ The app opens at `http://localhost:8501`.
 
 ## 🌐 Live Demo
 
-**Coming soon** — deploying to Streamlit Community Cloud.
+**Try it now:** [pdf-rag-app-io.streamlit.app](https://pdf-rag-app-io.streamlit.app/)
 
-_Once live, this section will link to the hosted app._
+Upload a PDF, ask a question, get a grounded answer with page citations.
 
 ---
 
